@@ -2,7 +2,7 @@
 
 # Hi there! I'm Naka Vasanth 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=A970FF&center=true&vCenter=true&width=800&lines=Computer+Science+Undergraduate;AI+Enthusiast;Backend+Developer;Cybersecurity+Learner;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=A970FF&center=true&vCenter=true&width=800&lines=Computer+Science+Undergraduate;AI+Enthusiast;Backend+Developer;Cybersecurity+Learner;Open+Source+Contributor)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Naka-Vasanth&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
@@ -210,13 +210,16 @@
   <a href="https://linkedin.com/in/naka-vasanth">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://twitter.com/NakaVasanth">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter/X" />
+  </a>
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Naka-Vasanth">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="#">
+  <a href="https://yourportfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-A970FF?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
   </a>
 </div>
@@ -225,11 +228,11 @@
 
 <div align="center">
 
-<!-- Setup Platane/snk action in your repo to generate this snake animation -->
+<!-- The Animated Contribution Snake -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naka-Vasanth/Naka-Vasanth/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Naka-Vasanth/Naka-Vasanth/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Naka-Vasanth/Naka-Vasanth/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naka-Vasanth/Naka-Vasanth/output/dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Naka-Vasanth/Naka-Vasanth/output/dist/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Naka-Vasanth/Naka-Vasanth/output/dist/github-contribution-grid-snake.svg">
 </picture>
 
 <br/><br/>
