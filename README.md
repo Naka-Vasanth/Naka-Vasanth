@@ -21,7 +21,7 @@
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="65%">
-      <p>I am a <b>Second Year BE Computer Science</b> student passionate about building scalable backend applications and exploring the frontiers of artificial intelligence and cybersecurity.</p>
+      <p>I am a <b>Final Year BE Computer Science</b> student passionate about building scalable backend applications and exploring the frontiers of artificial intelligence and cybersecurity.</p>
       <ul>
         <li>🎓 <b>Education:</b> BE Computer Science</li>
         <li>📍 <b>Location:</b> India</li>
