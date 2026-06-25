@@ -228,14 +228,10 @@
 
 <div align="center">
 
-<!-- The Animated Contribution Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naka-Vasanth/Naka-Vasanth/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Naka-Vasanth/Naka-Vasanth/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Naka-Vasanth/Naka-Vasanth/output/github-contribution-grid-snake.svg">
-</picture>
+<!-- Doraemon Animation: Doraemon flies, Nobita runs from Gian & Suneo, stops when he sees Shizuka! -->
+<img src="./assets/doraemon-animation.svg" alt="Doraemon Animation" width="100%" />
 
-<br/><br/>
-<h3 align="center">Thanks for visiting! Let’s build something amazing together. 🚀</h3>
+<br/>
+<h3 align="center">Thanks for visiting! Let's build something amazing together. 🚀</h3>
 
 </div>
