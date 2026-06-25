@@ -207,7 +207,7 @@
 ## 🔗 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/naka-vasanth">
+  <a href="[https://linkedin.com/in/naka-vasanth](https://www.linkedin.com/in/naka-vasanth-3960992a2?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/NakaVasanth">
